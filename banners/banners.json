@@ -2,7 +2,7 @@
   "version": 1,
   "banners": [
     { "id": "1", "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/banners/4%20(15).png", "active": true },
-    { "id": "2", "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/banners/96107458_3766519713422517_1742338347881201664_n.jpg", "active": true },
+    { "id": "2", "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/banners/96107458_3766519713422517_1742338347881201664_n.jpg", "active": false },
     { "id": "3", "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/banners/96244475_3766519850089170_5003079224106418176_n.jpeg", "active": true },
     { "id": "4", "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/banners/BANNER14112019%20(1).jpg", "active": true },
     { "id": "5", "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/banners/COVER%20(12).png", "active": true },
