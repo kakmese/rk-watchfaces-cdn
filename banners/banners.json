@@ -1,10 +1,25 @@
 {
   "version": 1,
   "banners": [
-    {
-      "id": "1",
-      "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/banners/cover.png",
-      "active": true
-    }
+    { "id": "1", "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/banners/4%20(15).png", "active": true },
+    { "id": "2", "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/banners/96107458_3766519713422517_1742338347881201664_n.jpg", "active": true },
+    { "id": "3", "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/banners/96244475_3766519850089170_5003079224106418176_n.jpeg", "active": true },
+    { "id": "4", "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/banners/BANNER14112019%20(1).jpg", "active": true },
+    { "id": "5", "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/banners/COVER%20(12).png", "active": true },
+    { "id": "6", "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/banners/COVER%20(7).png", "active": true },
+    { "id": "7", "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/banners/COVER%20(9).png", "active": true },
+    { "id": "8", "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/banners/cover.png", "active": true },
+    { "id": "9", "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/banners/COVER11.png", "active": true },
+    { "id": "10", "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/banners/KAPAK%20YAPIM24042019.png", "active": true },
+    { "id": "11", "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/banners/s2.png", "active": true },
+    { "id": "12", "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/banners/s3.png", "active": true },
+    { "id": "13", "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/banners/Screenshot%20Featur.png", "active": true },
+    { "id": "14", "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/banners/Screenshot%20Features.jpg.png", "active": true },
+    { "id": "15", "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/banners/Screenshot%20Portfolio.jpg", "active": true },
+    { "id": "16", "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/banners/Screenshot%20Portfolio.jpg.png", "active": true },
+    { "id": "17", "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/banners/Screenshot%20Portfolio.png", "active": true },
+    { "id": "18", "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/banners/SKAPAK.png", "active": true },
+    { "id": "19", "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/banners/watch_banner_1.png", "active": true },
+    { "id": "20", "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/banners/watch_banner_2.png", "active": true }
   ]
 }
