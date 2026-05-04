@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "banners": [
+    {
+      "id": "1",
+      "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/banners/cover.png",
+      "active": true
+    }
+  ]
+}
