@@ -1,0 +1,303 @@
+{
+  "version": 1,
+  "lastUpdate": "2026-05-06",
+  "watchfaces": [
+    {
+      "id": "rk001",
+      "packageId": "com.rk.watchface.rk001",
+      "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/watchfaces/rk001.png",
+      "category": "Klasik",
+      "shape": "round",
+      "featured": true,
+      "isNew": false,
+      "downloads": 8,
+      "releaseDate": "2026-04-12",
+      "name": {
+        "tr": "RK Classic",
+        "en": "RK Classic"
+      },
+      "description": {
+        "tr": "Zamansız bir analog tasarım. Klasik saat yüzü stilini modern akıllı saatinize taşıyın. Net okunabilirlik ve şık görünümüyle her kıyafetle uyum sağlar.",
+        "en": "A timeless analog design that brings classic watchface elegance to your modern smartwatch. Excellent readability and refined aesthetics that complement any outfit."
+      },
+      "tags": {
+        "tr": [
+          "klasik",
+          "analog",
+          "zarif",
+          "sade"
+        ],
+        "en": [
+          "classic",
+          "analog",
+          "elegant",
+          "simple"
+        ]
+      }
+    },
+    {
+      "id": "rk002",
+      "packageId": "com.rk.watchface.rk002",
+      "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/watchfaces/rk002.png",
+      "category": "Klasik",
+      "shape": "round",
+      "featured": true,
+      "isNew": true,
+      "downloads": 0,
+      "releaseDate": "2026-05-01",
+      "name": {
+        "tr": "RK Heritage",
+        "en": "RK Heritage"
+      },
+      "description": {
+        "tr": "Klasik analog saat yüzü tasarımının temel prensiplerini modern saatler için yorumlayan Heritage, temiz çizgileri ve okunabilir kadranıyla günlük kullanımın vazgeçilmezi.",
+        "en": "Heritage reinterprets the core principles of classic analog watchface design for modern devices. Its clean lines and legible dial make it a daily companion you'll never want to take off."
+      },
+      "tags": {
+        "tr": [
+          "klasik",
+          "heritage",
+          "vintage",
+          "sade"
+        ],
+        "en": [
+          "classic",
+          "heritage",
+          "vintage",
+          "clean"
+        ]
+      }
+    },
+    {
+      "id": "rk109",
+      "packageId": "com.rk.watchface.rk109",
+      "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/watchfaces/rk109.png",
+      "category": "Spor",
+      "shape": "round",
+      "featured": true,
+      "isNew": true,
+      "downloads": 0,
+      "releaseDate": "2026-05-01",
+      "name": {
+        "tr": "RK Sport Pulse",
+        "en": "RK Sport Pulse"
+      },
+      "description": {
+        "tr": "Fitness ve spor odaklı bu tasarım, adım sayısı ve kalp atış hızı verilerini ön plana çıkarır. Yeşil aksanlı detaylarıyla antrenman takibini hem işlevsel hem de görsel açıdan mükemmelleştirir.",
+        "en": "Built for fitness and sport, this design brings step count and heart rate data front and center. Its green accents make workout tracking both functional and visually striking."
+      },
+      "tags": {
+        "tr": [
+          "spor",
+          "fitness",
+          "aktif",
+          "sağlık"
+        ],
+        "en": [
+          "sport",
+          "fitness",
+          "active",
+          "health"
+        ]
+      }
+    },
+    {
+      "id": "rk132",
+      "packageId": "com.rk.watchface.rk132",
+      "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/watchfaces/rk132.png",
+      "category": "Spor",
+      "shape": "round",
+      "featured": true,
+      "isNew": false,
+      "downloads": 3,
+      "releaseDate": "2026-04-15",
+      "name": {
+        "tr": "RK Sport Pro",
+        "en": "RK Sport Pro"
+      },
+      "description": {
+        "tr": "Aktif yaşam tarzınız için özel olarak tasarlandı. Hız ve performans odaklı bu saat yüzü, spor aktivitelerinizde sizi motive eder. Yüksek kontrast renk şeması sayesinde güneş ışığında bile mükemmel okunabilirlik sunar.",
+        "en": "Engineered for an active lifestyle. Speed and performance-focused, this watchface keeps you motivated during every workout. Its high-contrast colour scheme ensures perfect readability even in direct sunlight."
+      },
+      "tags": {
+        "tr": [
+          "spor",
+          "aktif",
+          "modern",
+          "performans"
+        ],
+        "en": [
+          "sport",
+          "active",
+          "modern",
+          "performance"
+        ]
+      }
+    },
+    {
+      "id": "rk141",
+      "packageId": "com.rk.watchface.rk141",
+      "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/watchfaces/rk141.png",
+      "category": "Dijital",
+      "shape": "round",
+      "featured": false,
+      "isNew": true,
+      "downloads": 12,
+      "releaseDate": "2026-04-20",
+      "name": {
+        "tr": "RK Digital X",
+        "en": "RK Digital X"
+      },
+      "description": {
+        "tr": "Geleceğin estetiği bugün elinizde. Dijital ekran odaklı bu tasarım, tüm bilgileri net ve şık bir şekilde sunar. Teknoloji tutkunlarının vazgeçilmezi.",
+        "en": "The aesthetics of tomorrow, available today. This display-forward design presents all key information with clarity and style. An essential for tech enthusiasts."
+      },
+      "tags": {
+        "tr": [
+          "dijital",
+          "futuristik",
+          "teknolojik",
+          "modern"
+        ],
+        "en": [
+          "digital",
+          "futuristic",
+          "tech",
+          "modern"
+        ]
+      }
+    },
+    {
+      "id": "rk142",
+      "packageId": "com.rk.watchface.rk142",
+      "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/watchfaces/rk142.png",
+      "category": "Lüks",
+      "shape": "round",
+      "featured": true,
+      "isNew": true,
+      "downloads": 6,
+      "releaseDate": "2026-04-25",
+      "name": {
+        "tr": "RK Luxe",
+        "en": "RK Luxe"
+      },
+      "description": {
+        "tr": "Lüks saatlerin zarafetini bilek saatinize taşıyın. İnce detayları ve premium görünümüyle iş dünyasında ya da özel davetlerde fark yaratın.",
+        "en": "Bring the refined elegance of luxury timepieces to your wrist. With its intricate details and premium aesthetic, RK Luxe sets you apart in the boardroom and at formal occasions alike."
+      },
+      "tags": {
+        "tr": [
+          "lüks",
+          "premium",
+          "şık",
+          "altın"
+        ],
+        "en": [
+          "luxury",
+          "premium",
+          "elegant",
+          "gold"
+        ]
+      }
+    },
+    {
+      "id": "rk143",
+      "packageId": "com.rk.watchface.rk143",
+      "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/watchfaces/rk143.png",
+      "category": "Spor",
+      "shape": "round",
+      "featured": true,
+      "isNew": true,
+      "downloads": 0,
+      "releaseDate": "2026-05-01",
+      "name": {
+        "tr": "RK Racing",
+        "en": "RK Racing"
+      },
+      "description": {
+        "tr": "Motorsport estetiğinden ilham alan komplike tasarım; kronograf ibrelerini, hız göstergelerini ve yarış pisti unsurlarını bilek saatinize taşır. Hız tutkunları için özel üretim.",
+        "en": "Inspired by motorsport aesthetics, this intricate design brings chronograph hands, speed gauges and racetrack elements to your wrist. Made exclusively for speed enthusiasts."
+      },
+      "tags": {
+        "tr": [
+          "yarış",
+          "racing",
+          "hız",
+          "motorsport"
+        ],
+        "en": [
+          "racing",
+          "speed",
+          "motorsport",
+          "chronograph"
+        ]
+      }
+    },
+    {
+      "id": "rk145",
+      "packageId": "com.rk.watchface.rk145",
+      "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/watchfaces/rk145.png",
+      "category": "Minimal",
+      "shape": "round",
+      "featured": false,
+      "isNew": true,
+      "downloads": 14,
+      "releaseDate": "2026-04-22",
+      "name": {
+        "tr": "RK Minimal",
+        "en": "RK Minimal"
+      },
+      "description": {
+        "tr": "\"Az çoktur\" felsefesiyle tasarlandı. Sade çizgileri ve nefes alan boş alanlarıyla saatlerin özüne dönen bir tasarım.",
+        "en": "Designed around the \"less is more\" philosophy. Clean lines and breathing white space bring watchface design back to its purest essence."
+      },
+      "tags": {
+        "tr": [
+          "minimal",
+          "sade",
+          "modern",
+          "temiz"
+        ],
+        "en": [
+          "minimal",
+          "clean",
+          "modern",
+          "simple"
+        ]
+      }
+    },
+    {
+      "id": "rk146",
+      "packageId": "com.rk.watchface.rk146",
+      "image": "https://raw.githubusercontent.com/kakmese/rk-watchfaces-cdn/main/watchfaces/rk146.png",
+      "category": "Analog",
+      "shape": "round",
+      "featured": false,
+      "isNew": false,
+      "downloads": 9,
+      "releaseDate": "2026-04-18",
+      "name": {
+        "tr": "RK Analog Elite",
+        "en": "RK Analog Elite"
+      },
+      "description": {
+        "tr": "Analog saatlerin ruhunu dijital dünyaya taşıyan premium bir tasarım. Hassas detayları ve güçlü karakteriyle her bilek üzerinde bir güç ifadesi oluşturur.",
+        "en": "A premium design that carries the soul of analog watchmaking into the digital world. Precise detailing and a commanding presence make it a statement on any wrist."
+      },
+      "tags": {
+        "tr": [
+          "analog",
+          "elit",
+          "klasik",
+          "premium"
+        ],
+        "en": [
+          "analog",
+          "elite",
+          "classic",
+          "premium"
+        ]
+      }
+    }
+  ]
+}
