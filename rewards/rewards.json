@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "lastUpdate": "2026-05-06",
+  "rewards": [
+    {
+      "id": "discount_10",
+      "type": "discount",
+      "value": 10,
+      "weight": 35,
+      "color": "#4FC3F7",
+      "icon": "🎟️",
+      "name": {
+        "tr": "%10 İndirim",
+        "en": "10% Discount"
+      },
+      "description": {
+        "tr": "Bir saat tasarımında %10 indirim kuponu kazandın!",
+        "en": "You won a 10% discount coupon for any watch face!"
+      }
+    },
+    {
+      "id": "discount_20",
+      "type": "discount",
+      "value": 20,
+      "weight": 25,
+      "color": "#66BB6A",
+      "icon": "🎫",
+      "name": {
+        "tr": "%20 İndirim",
+        "en": "20% Discount"
+      },
+      "description": {
+        "tr": "Bir saat tasarımında %20 indirim kuponu kazandın!",
+        "en": "You won a 20% discount coupon for any watch face!"
+      }
+    },
+    {
+      "id": "discount_50",
+      "type": "discount",
+      "value": 50,
+      "weight": 8,
+      "color": "#FFA726",
+      "icon": "💎",
+      "name": {
+        "tr": "%50 İndirim",
+        "en": "50% Discount"
+      },
+      "description": {
+        "tr": "Tebrikler! Bir saat tasarımında %50 indirim kuponu kazandın!",
+        "en": "Congrats! You won a 50% discount coupon for any watch face!"
+      }
+    },
+    {
+      "id": "free_face",
+      "type": "free",
+      "value": 100,
+      "weight": 2,
+      "color": "#AB47BC",
+      "icon": "🎁",
+      "name": {
+        "tr": "Ücretsiz Tasarım",
+        "en": "Free Watch Face"
+      },
+      "description": {
+        "tr": "Süper ödül! Bir saat tasarımı ücretsiz!",
+        "en": "Super prize! One watch face is free!"
+      }
+    },
+    {
+      "id": "try_again",
+      "type": "retry",
+      "value": 0,
+      "weight": 15,
+      "color": "#78909C",
+      "icon": "🔄",
+      "name": {
+        "tr": "Tekrar Dene",
+        "en": "Try Again"
+      },
+      "description": {
+        "tr": "Yarın tekrar şansını dene!",
+        "en": "Come back tomorrow for another spin!"
+      }
+    },
+    {
+      "id": "no_win",
+      "type": "none",
+      "value": 0,
+      "weight": 15,
+      "color": "#546E7A",
+      "icon": "❌",
+      "name": {
+        "tr": "Boş",
+        "en": "Empty"
+      },
+      "description": {
+        "tr": "Maalesef bu sefer kazanamadın. Yarın tekrar dene!",
+        "en": "No luck this time. Try again tomorrow!"
+      }
+    }
+  ]
+}
